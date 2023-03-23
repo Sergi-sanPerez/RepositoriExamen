@@ -3,4 +3,3 @@ public class Main {
                 System.out.println("Soc Sergi Pérez Segalà i estic fent l’examen de la UF2 del M01");
         }
 }
-https://github.com/Sergi-sanPerez/RepositoriExamen.git
